@@ -19,7 +19,7 @@
 ```javascript
 const raj = {
     education: "Computer Science @ Lovely Professional University",
-    location: "Rajpura, Punjab, India",
+    location: "Phagwara, Punjab, India",
     currentFocus: ["Data Structures & Algorithms", "System Design", "DevOps"],
     interests: ["Scalable Systems", "Backend Development", "Cloud Architecture"],
     motto: "Building efficient, secure, and scalable software solutions"
